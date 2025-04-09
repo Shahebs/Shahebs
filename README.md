@@ -16,4 +16,6 @@ Highly motivated IT professional with expertise in Kubernetes and container orch
 ## Connect with me
 
 <p align="center"><a href="https://www.linkedin.com/in/shahebaz-shaikh-59851b80" target="_blank"><img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000"></a></p>
+<p align="center"><a href="https://github.com/Shahebs" target="_blank"><img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000"></a></p>
+ 
 

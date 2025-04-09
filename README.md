@@ -1,10 +1,10 @@
 ## About Me
 
-🌱 I’m currently working @REDHAT.
+🌱 I’m currently working <img src="https://img.icons8.com/?size=100&id=17847&format=png&color=00000">.
 
-💬 Ask me about Devops.
+<img src="https://img.icons8.com/?size=100&id=17847&format=png&color=000000"> Ask me about Devops.
 
-📫 How to reach me shazzyshahebaz@gmail.com 
+<img src="https://img.icons8.com/?size=100&id=95smte29m50W&format=png&color=000000"> How to reach me shazzyshahebaz@gmail.com 
 
 I am **Shaikh Shahebaz Rafique** a detail-oriented computer science postgraduate with a strong foundation in **DevOps** principles, including CI/CD pipelines, containerization, and cloud services. Seeking a challenging role as a DevOps Engineer to apply technical skills in automation, infrastructure management, and problem-solving. Committed to contributing to team success, learning from industry professionals, and enhancing operational efficiency in a fast-paced environment. Proficient in Linux, Ansible, Podman/Docker, Kubernetes/OpenShift, Git, Prometheus, Jenkins, AWS Cloud, and various AWS services.
 

@@ -13,7 +13,7 @@ Highly motivated IT professional with expertise in Kubernetes and container orch
 ## My Skills
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
+<img src="https://www.svgrepo.com/svg/373458/aws"> 
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 

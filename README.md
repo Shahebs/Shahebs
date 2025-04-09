@@ -11,12 +11,18 @@ I am **Shaikh Shahebaz Rafique** a detail-oriented computer science postgraduate
 Highly motivated IT professional with expertise in Kubernetes and container orchestration. Certified Kubernetes Administrator (CKA) and Red Hat Certified Specialist in Containers (EX188) with solid understanding of deploying, scaling, and managing containerized applications. Known for quickly grasping new technologies and applying them to real-world scenarios. Skilled in collaborative team environments and dedicated to continuous learning and professional development.
 
 ## My Skills
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"> 
-<img src="https://img.icons8.com/?size=50&id=33039&format=png&color=000000"> 
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
+<img src="https://img.icons8.com/?size=50&id=17842&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=iGCCE2iEmh2u&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=cdYUlRaag9G9&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=cvzmaEA4kC0o&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=33039&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=kEkT1u7zTDk5&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=39292&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=NrcKwdmlOBfE&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=9uVrNMu3Zx1K&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=62856&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000"> 
+<img src="https://img.icons8.com/?size=50&id=34886&format=png&color=000000"> 
 
 ## Connect with me
 

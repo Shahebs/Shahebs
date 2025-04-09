@@ -14,9 +14,13 @@ Highly motivated IT professional with expertise in Kubernetes and container orch
 <img src="https://img.icons8.com/?size=50&id=17842&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=iGCCE2iEmh2u&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=cdYUlRaag9G9&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=cvzmaEA4kC0o&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=33039&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=kEkT1u7zTDk5&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=39292&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=NrcKwdmlOBfE&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=9uVrNMu3Zx1K&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=62856&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=34886&format=png&color=000000">
 
 ## My Certifications
+
 <img src="https://img.icons8.com/?size=50&id=cvzmaEA4kC0o&format=png&color=000000">CKA   : Certified Kubernetes Administrator             ----> CERTIFICATION ID : LF-h7z8sfo4gs
+
 <img src="https://img.icons8.com/?size=50&id=cdYUlRaag9G9&format=png&color=000000">EX188 : Red Hat Certified Specialist in Containers     ----> CERTIFICATION ID : 220-056-048
+
 <img src="https://img.icons8.com/?size=50&id=iGCCE2iEmh2u&format=png&color=000000">EX290 : Red Hat Certified Engineer RHCE                ----> CERTIFICATION ID : 220-056-048
+
 <img src="https://img.icons8.com/?size=50&id=17842&format=png&color=000000">EX200 : Red Hat Certified System Administrator RHCSA   ----> CERTIFICATION ID : 220-056-048
 
 ## Connect with me

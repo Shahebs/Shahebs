@@ -15,4 +15,5 @@ Highly motivated IT professional with expertise in Kubernetes and container orch
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://github.com/Shahebs" target="_blank">Shahebs</a> Email: shazzyshahebaz@gmail.com</p>
+<p align="center"> <img src="https://img.icons8.com/?size=100&id=S1v6I2Bqs1Zq&format=png&color=000000">: <a href="https://www.linkedin.com/in/shahebaz-shaikh-59851b80" target="_blank">Shahebs</a></p>
+
